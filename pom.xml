@@ -351,7 +351,7 @@
         <dependency>
             <groupId>net.kyori</groupId>
             <artifactId>adventure-key</artifactId>
-            <version>4.19.0</version>
+            <version>4.21.0</version>
         </dependency>
         <dependency>
             <groupId>net.kyori</groupId>
